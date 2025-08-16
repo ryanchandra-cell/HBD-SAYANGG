@@ -322,7 +322,7 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'Our First Date 💕',
-            image: './images/photo1.jpg'
+            image: './images/https://github.com/ryanchandra-cell/HBD-SAYANGG/blob/main/photo1.jpg'
         },
         {
             text: 'Birthday Moment 🎂',
